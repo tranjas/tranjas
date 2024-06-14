@@ -7,7 +7,7 @@ I'm Jason, an aspiring software engineer with a passion for developing innovativ
 - 🔭 I’m currently working on enhancing my coding skills by building full-stack applications.
 - 🌱 I’m currently learning React, Node.js, and exploring cloud services like AWS and Google Cloud.
 - 👯 I’m looking to collaborate on open-source projects that aim to solve real-world problems.
-- 📫 How to reach me: jasoncongtran@gmail.com
+- 📫 How to reach me: jasoncongtranjob@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding, you can find me on the tennis court
 
@@ -17,25 +17,24 @@ I'm Jason, an aspiring software engineer with a passion for developing innovativ
 - **Frameworks**: React, Node.js, Express, Django, Flask
 - **Databases**: MongoDB, MySQL, PostgreSQL
 - **Tools**: Git
-
+<!-- Projects section 
 ### Projects
-
 #### [Project Name](GitHub Project Link)
 Description: A brief description of what this project is about, the technologies used, and what you learned from it.
 
 #### [Another Project](GitHub Project Link)
 Description: Another brief description of this project, the stack used, and its main features.
-
+-->
 ### Get in Touch
 
 - LinkedIn: https://www.linkedin.com/in/jason-tran-8126301bb/ 
-- Portfolio: [Your Portfolio](Your Portfolio URL)
+- Portfolio: https://tranjas.github.io/Portfolio-Website/ 
 
 ### GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tranjas&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranjas&layout=compact&theme=radical)
 
 ---
 
