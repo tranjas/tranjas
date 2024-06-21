@@ -30,6 +30,9 @@ Description: Another brief description of this project, the stack used, and its 
 - LinkedIn: https://www.linkedin.com/in/jason-tran-8126301bb/ 
 - Portfolio: https://tranjas.github.io/Portfolio-Website/ 
 
+### LeetCode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/jason9192)
+
 ### GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tranjas&show_icons=true&theme=radical)
