@@ -31,7 +31,7 @@ Description: Another brief description of this project, the stack used, and its 
 - Portfolio: https://tranjas.github.io/Portfolio-Website/ 
 
 ### LeetCode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/jason9192)
+![](https://leetcard.jacoblin.cool/jason9192?theme=light,unicorn)
 
 ### GitHub Stats
 
