@@ -2,8 +2,8 @@
 
 I'm Jason, an aspiring software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Currently, I'm diving deep into the world of coding, sharpening my skills, and building projects that I'm excited to share.
 
-Just Learnt: Next.JS framework (planning to work on a project revolving around poke dex using Next.JS)
-Currently Studying: Writing Compilers and Interpreters in Java
+- Just Learnt: Next.JS framework (planning to work on a project revolving around poke dex using Next.JS)
+- Currently Studying: Writing Compilers and Interpreters in Java
 ### About Me
 
 - 🔭 I’m currently working on enhancing my coding skills by building full-stack applications.
