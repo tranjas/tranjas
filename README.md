@@ -2,7 +2,7 @@
 
 I'm Jason, an aspiring software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Currently, I'm diving deep into the world of coding, sharpening my skills, and building projects that I'm excited to share.
 
-- Currently working on my spring backend for my stock simulator app
+- Currently working on my spring backend for my stock simulator app **https://github.com/tranjas/Stock-Simulator**
 - Currently Studying: Writing Compilers and Interpreters in Java
 ### About Me
 
